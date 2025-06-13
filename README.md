@@ -46,8 +46,8 @@ It was developed as part of a data science course project in ASU.
 | File | Description |
 |------|-------------|
 | [`Gaming-Trends-2024.xlsx`](data/Gaming-Trends-2024.xlsx) | Video game sales dataset |
-| [`PredictingGameRevenueUsingMachineLearning.ipynb`](notebooks/PredictingGameRevenueUsingMachineLearning.ipynb) | Notebook with EDA, feature engineering, modeling |
-| [`PredictingGameRevenueUsingMachineLearning.pdf`](reports/PredictingGameRevenueUsingMachineLearning.pdf) | Final formatted report |
+| [`PredictingGameRevenueUsingMachineLearning.ipynb`](PredictingGameRevenueUsingMachineLearning.ipynb) | Notebook with EDA, feature engineering, modeling |
+| [`PredictingGameRevenueUsingMachineLearning.pdf`](PredictingGameRevenueUsingMachineLearning.pdf) | Final formatted report |
 
 ---
 
